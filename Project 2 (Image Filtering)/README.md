@@ -1,9 +1,12 @@
 # Computer Vision Foundations (Images and Filtering)  
 ***Using OpenCV***
 
-- Image Histogram  
-- Split and Merge Image Channels  
-- Image Thresholding  
+- Image Histogram
+- 
+- Split and Merge Image Channels
+- 
+- Image Thresholding
+- 
 - Image Rotation  
 - Image Resizing and Cropping  
 - 2-D Convolution:
