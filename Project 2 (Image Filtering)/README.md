@@ -1,5 +1,5 @@
-Computer Vision Foundations: Images and Filtering:  
-***using OpenCV***
+Computer Vision Foundations(Images and Filtering):  
+            ***using OpenCV***
 
 Image histogram  
 Split and Merge Image Channels
